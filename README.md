@@ -5,7 +5,7 @@
 
 FEATURES & METHODS:
 
-- Full functionality of the cart including adding, deleting items and calculating price
+- Full functionality of the Cart including adding, deleting items and calculating price
 - Reusable React Components
 - React Hooks: useState, useEffect, useRef, useContext, useReducer
 - Prop Drilling
