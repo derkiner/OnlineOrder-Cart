@@ -34,8 +34,9 @@ Visuals => (https://www.pexels.com/)
 <hr>
 
 ## SNAPSHOTS:
-![image](https://user-images.githubusercontent.com/90147636/196001001-c5407bdc-bbb4-472c-b6b0-68f1e2211ad0.png)
-![image](https://user-images.githubusercontent.com/90147636/196001017-1dcd8eb2-ba7a-4b5b-afdc-5bff7b601179.png)
+![image](https://user-images.githubusercontent.com/90147636/196043026-889ef667-028b-4ce6-93ce-3cba04eeea82.png)
+![image](https://user-images.githubusercontent.com/90147636/196043037-6b6b55bf-193d-4c55-ba78-e2644538c0d5.png)
+
 
 
            
